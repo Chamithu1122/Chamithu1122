@@ -1,0 +1,37 @@
+### Hi there 👋
+
+<!--
+**Chamithu1122/Chamithu1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+-🇱🇰 ⬆️ Queen Amdi Patch Note – 2.9V ⬆️🇱🇰
+🆕 New features :
+╠◪ Added automatic verify system. *(Make sure your HEROKU_API_KEY correct and valid)*
+╠◪ Added option to set command list requester command change (.setvar MENU=panel)
+╠◪ .report : Added enhanced report system to groups.
+╠◪ .getspo : Added Spotify music search system to get Spotify links.
+╠◪ .covid [country] : Added Covid-19 information for every country. 
+╠◪ .sticvid : Animated stickers to video.
+╠◪ .matrix : Matrix themed text to image.
+╠◪ .hbd : Make birthday cake with your name.
+╠◪ .wflogo : Wolf logo with your text.
+╠◪ .naruto : Naruto themed banner with your text.
+╠◪ .silk : Silk cloth with your text.
+˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭
+⚙️ Fixes :
+╠◪ Song downloader fixed (.song [name]) + 320kbps + MP3 document.
+╠◪ Video downloader fixed. (.video [link])
+╠◪ Mp4 to Audio fixed.
+╠◪ Facebook video downloader fixed.
+╠◪ Tiktok downloader updated with new look.
+╠◪ Not working in groups when private mode fixed.
+╠◪ Enhanced Spotify downloader with new look + 320kbps.
+╠◪ Minor bug fixed. 
+˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭
+🚫 Removed :
+╠◪ .virus : Removed whatsapp virus sender from public version.
+╠◪ Unwanted files
+˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭ ˭
+Check github : https://github.com/BlackAmda/QueenAmdi
+-->
